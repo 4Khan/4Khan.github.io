@@ -172,7 +172,10 @@ p{ margin: 0 0 14px; color: var(--text); }
   margin: 8px 0 0;
   display: grid;
   gap: 8px;
+  color: var(--accent);
+  text-decoration: none;
 }
+
 .contact-link{
   text-decoration: none;
   color: var(--accent);
